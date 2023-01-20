@@ -333,7 +333,11 @@ background-color: #3f2aff;
   font-size: 18px;
   line-height: 21px;
   border: 2px solid #3F2AFF;
-  color: #3F2AFF;
+  color: #2aff95;
   background: #FFFFFF;
   cursor: pointer;
+}
+
+.container_list {
+  margin-bottom: 50px;
 }
